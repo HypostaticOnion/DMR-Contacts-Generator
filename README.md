@@ -30,7 +30,7 @@ Takes the CSVs from RadioID.net and the FCC ULS database and matches each callsi
 
 PART 4: Format Data for your radio-specific CPS Import
 
-Imports the data from the 'RADIOID_FCC_MERGED.csv' and formats to what the DM-32UV CPS is looking for and exports to 'DMR_CONTACTS_(your radio model).csv'.
+Imports the data from the 'RADIOID_FCC_MERGED.csv' and formats to what your CPS is looking for and exports to 'DMR_CONTACTS_(your radio model).csv'.
 
 ============================================================================
 
