@@ -34,10 +34,4 @@ Imports the data from the 'RADIOID_FCC_MERGED.csv' and formats to what the DM-32
 
 ============================================================================
 
-Troubleshooting:
-
-Some things I did have to do before I could get it to run:
-
-Install "Requests" and "Pandas" using the command "python3 -m pip3 install requests pandas" before you run the script unless you've already installed them previously. Note that "pip3" was used instead of "pip" as I could not get the import command in the script to run until I specified "pip3." Your environment may be different.
-
-It is noted in the script, but you may need/want to change the output path of the files generated to fit your setup.
+73
